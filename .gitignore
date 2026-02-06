@@ -1,2 +1,3 @@
-./data/*.*
-./testing.log
+data/
+data/*.*
+testing.log
